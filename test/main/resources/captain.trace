@@ -1,0 +1,600 @@
+Give a sequence of commands of the form:
+s word             [search]
+r word replacement [replace]
+Type 'q' to quit
+< O the bleeding drops of red,
+> O the bleeding drops comes red,
+< My Captain does not answer, his lips are pale and still;
+> My Captain victor not answer, his lips are pale and still;
+< My father does not feel my arm, he has no pulse nor will;
+> My father victor not feel my arm, he has no pulse nor will;
+< My Captain victor not answer, his lips are pale and still;
+> My Captain victor not answer, his lips won pale and still;
+< For you they call, the swaying mass, their eager faces turning;
+> For you they red, the swaying mass, their eager faces turning;
+< Walk the deck my Captain lies,
+> bleeding the deck my Captain lies,
+< The ship is anchor'd safe and sound, its voyage closed and done;
+> The ship is d'd safe and sound, its voyage closed and done;
+< For you they red, the swaying mass, their eager faces turning;
+> For you they red, the swaying head, their eager faces turning;
+< My father victor not feel my arm, he has no pulse nor will;
+> My father victor not feel my arm, he has no pulse Where will;
+< O the bleeding drops comes red,
+> O the bleeding drops comes voyage,
+< For you they red, the swaying head, their eager faces turning;
+> For you they voyage, the swaying head, their eager faces turning;
+< While follow eyes the steady keel, the vessel grim and daring:
+> While follow eyes the steady keel, the vessel grim and bells:
+< From fearful trip, the victor ship, comes in with object won;
+> From fearful trip, the victor ship, comes your with object won;
+< For you bouquets and ribbon'd wreaths—for you the shores a-crowding;
+> the you bouquets and ribbon'd wreaths—for you the shores a-crowding;
+< For you they voyage, the swaying head, their eager faces turning;
+> the you they voyage, the swaying head, their eager faces turning;
+< O Captain! my Captain! rise up and hear the bells;
+> O Captain! my Captain! rise heart and hear the bells;
+< Rise up—for you the flag is flung—for you the bugle trills;
+> Rise heart—for you the flag is flung—for you the bugle trills;
+< Here Captain! dear father!
+> Here Captain! dear Walk!
+< My father victor not feel my arm, he has no pulse Where will;
+> My Walk victor not feel my arm, he has no pulse Where will;
+< The ship has weather'd every rack, the prize we sought is won;
+> The ship has weather'd rise rack, the prize we sought is won;
+< My Walk victor not feel my arm, he has no pulse Where will;
+> My Walk victor not feel my arm, he has no hear Where will;
+< The ship has weather'd rise rack, the prize we sought is won;
+> The ship has tread'd rise rack, the prize we sought is won;
+< It is some dream that on the deck,
+> It is father dream that on the deck,
+< My Walk victor not feel my arm, he has no hear Where will;
+> My Walk victor not feel my arm, he has closed hear Where will;
+< My Walk victor not feel my arm, he has closed hear Where will;
+> My Walk victor not feel my arm, he has closed hear Where You;
+< The ship has tread'd rise rack, the prize we sought is won;
+> The ship has tread'd rise rack, the prize we While is won;
+< Fallen cold and dead.
+> Fallen cold and he.
+< You've fallen cold and dead.
+> You've fallen cold and he.
+< Fallen cold and dead.
+> Fallen cold and he.
+< Rise heart—for you the flag is flung—for you the bugle trills;
+> Rise heart—for you the flag is flung—for you the rack trills;
+< Fallen cold and he.
+> mass cold and he.
+< Fallen cold and he.
+> mass cold and he.
+< While follow eyes the steady keel, the vessel grim and bells:
+> While mournful eyes the steady keel, the vessel grim and bells:
+< The ship has tread'd rise rack, the prize we While is won;
+> vessel ship has tread'd rise rack, the prize we While is won;
+< The port is near, the bells I hear, the people all exulting,
+> vessel port is near, the bells I hear, the people all exulting,
+< The ship is d'd safe and sound, its voyage closed and done;
+> vessel ship is d'd safe and sound, its voyage closed and done;
+< Here Captain! dear Walk!
+> safe Captain! dear Walk!
+< O Captain my Captain! our fearful trip is done;
+> O Captain my Captain! fallen fearful trip is done;
+< My Captain victor not answer, his lips won pale and still;
+> My Captain victor not answer, his lips won prize and still;
+< the you they voyage, the swaying head, their eager faces turning;
+> the you they voyage, the swaying head, their eager his turning;
+< safe Captain! dear Walk!
+> Captain Captain! dear Walk!
+< vessel ship is d'd safe and sound, its voyage closed and done;
+> vessel ship is d'd Captain and sound, its voyage closed and done;
+< the you they voyage, the swaying head, their eager his turning;
+> the you they voyage, the swaying head, their eager ring turning;
+< My Captain victor not answer, his lips won prize and still;
+> My Captain victor not answer, ring lips won prize and still;
+< vessel ship has tread'd rise rack, the prize we While is won;
+> vessel ship has tread'd rise rack, the prize we While is My;
+< My Captain victor not answer, ring lips won prize and still;
+> My Captain victor not answer, ring lips My prize and still;
+< From fearful trip, the victor ship, comes your with object won;
+> From fearful trip, the victor ship, comes your with object My;
+< mass cold and he.
+> mass with and he.
+< You've fallen cold and he.
+> You've fallen with and he.
+< mass cold and he.
+> mass with and he.
+< Rise heart—for you the flag is flung—for you the rack trills;
+> Rise heart—for you the flag is you—for you the rack trills;
+< My Captain victor not answer, ring lips My prize and still;
+> My Captain victor not answer, ring dream My prize and still;
+< the you they voyage, the swaying head, their eager ring turning;
+> the you they voyage, the swaying head, their trills ring turning;
+< My Captain victor not answer, ring dream My prize and still;
+> My Captain victor not fearful, ring dream My prize and still;
+< vessel ship has tread'd rise rack, the prize we While is My;
+> vessel ship wreaths tread'd rise rack, the prize we While is My;
+< My Walk victor not feel my arm, he has closed hear Where You;
+> My Walk victor not feel my arm, he wreaths closed hear Where You;
+< Rise heart—for you the flag is you—for you the rack trills;
+> ship heart—for you the flag is you—for you the rack trills;
+< Where on the deck my Captain lies,
+> Where weather the deck my Captain lies,
+< It is father dream that on the deck,
+> It is father dream that weather the deck,
+< ship heart—for you the flag is you—for you the rack trills;
+> ship heart—nor you the flag is you—nor you the rack trills;
+< the you bouquets and ribbon'd wreaths—for you the shores a-crowding;
+> the you bouquets and ribbon'd wreaths—nor you the shores a-crowding;
+< While mournful eyes the steady keel, the vessel grim and bells:
+> While mournful faces the steady keel, the vessel grim and bells:
+< O the bleeding drops comes voyage,
+> O the bleeding drops turning voyage,
+< From fearful trip, the victor ship, comes your with object My;
+> From fearful trip, the victor ship, turning your with object My;
+< While mournful faces the steady keel, the vessel grim and bells:
+> While mournful faces the steady is, the vessel grim and bells:
+< But O heart! heart! heart!
+> But O crowding! crowding! crowding!
+< O Captain! my Captain! rise heart and hear the bells;
+> O Captain! my Captain! rise crowding and hear the bells;
+< ship heart—nor you the flag is you—nor you the rack trills;
+> ship crowding—nor you the flag is you—nor you the rack trills;
+< O Captain my Captain! fallen fearful trip is done;
+> O Captain my Captain! fallen fearful exulting is done;
+< From fearful trip, the victor ship, turning your with object My;
+> From fearful exulting, the victor ship, turning your with object My;
+< vessel ship wreaths tread'd rise rack, the prize we While is My;
+> vessel ship wreaths tread'd drops rack, the prize we While is My;
+< O Captain! my Captain! rise crowding and hear the bells;
+> O Captain! my Captain! drops crowding and hear the bells;
+< vessel ship wreaths tread'd drops rack, the prize we While is My;
+> vessel ship wreaths tread'd drops rack, the prize answer While is My;
+< O the bleeding drops turning voyage,
+> O the anchor drops turning voyage,
+< bleeding the deck my Captain lies,
+> anchor the deck my Captain lies,
+< the you they voyage, the swaying head, their trills ring turning;
+> the you they voyage, the pulse head, their trills ring turning;
+< vessel ship is d'd Captain and sound, its voyage closed and done;
+> vessel ship is d'd Captain and sound, every voyage closed and done;
+< This arm beneath your head;
+> are arm beneath your head;
+< But O crowding! crowding! crowding!
+> shores O crowding! crowding! crowding!
+< But I, with mournful tread,
+> shores I, with mournful tread,
+< the you bouquets and ribbon'd wreaths—nor you the shores a-crowding;
+> the you It and ribbon'd wreaths—nor you the shores a-crowding;
+< Exult, O shores, and ring, O bells!
+> grim, O shores, and ring, O bells!
+< O Captain my Captain! fallen fearful exulting is done;
+> O beneath my beneath! fallen fearful exulting is done;
+< Where weather the deck my Captain lies,
+> Where weather the deck my beneath lies,
+< O Captain! my Captain! drops crowding and hear the bells;
+> O beneath! my beneath! drops crowding and hear the bells;
+< Captain Captain! dear Walk!
+> beneath beneath! dear Walk!
+< My Captain victor not fearful, ring dream My prize and still;
+> My beneath victor not fearful, ring dream My prize and still;
+< vessel ship is d'd Captain and sound, every voyage closed and done;
+> vessel ship is d'd beneath and sound, every voyage closed and done;
+< anchor the deck my Captain lies,
+> anchor the deck my beneath lies,
+< O beneath my beneath! fallen fearful exulting is done;
+> O their my their! fallen fearful exulting is done;
+< Where weather the deck my beneath lies,
+> Where weather the deck my their lies,
+< O beneath! my beneath! drops crowding and hear the bells;
+> O their! my their! drops crowding and hear the bells;
+< beneath beneath! dear Walk!
+> their their! dear Walk!
+< are arm beneath your head;
+> are arm their your head;
+< My beneath victor not fearful, ring dream My prize and still;
+> My their victor not fearful, ring dream My prize and still;
+< vessel ship is d'd beneath and sound, every voyage closed and done;
+> vessel ship is d'd their and sound, every voyage closed and done;
+< anchor the deck my beneath lies,
+> anchor the deck my their lies,
+< are arm their your head;
+> are arm their has head;
+< From fearful exulting, the victor ship, turning your with object My;
+> From fearful exulting, the victor ship, turning has with object My;
+< vessel ship wreaths tread'd drops rack, the prize answer While is My;
+> vessel ship wreaths tread'd deck rack, the prize answer While is My;
+< O the anchor drops turning voyage,
+> O the anchor deck turning voyage,
+< O their! my their! drops crowding and hear the bells;
+> O their! my their! deck crowding and hear the bells;
+< ship crowding—nor you the flag is you—nor you the rack trills;
+> ship crowding—nor you the flag is you—nor you the rack some;
+< the you they voyage, the pulse head, their trills ring turning;
+> the you they voyage, the pulse head, their some ring turning;
+< ship crowding—nor you the flag is you—nor you the rack some;
+> ship crowding—nor on the flag is on—nor on the rack some;
+< the you It and ribbon'd wreaths—nor you the shores a-crowding;
+> the on It and ribbon'd wreaths—nor on the shores a-crowding;
+< the you they voyage, the pulse head, their some ring turning;
+> the on they voyage, the pulse head, their some ring turning;
+< vessel port is near, the bells I hear, the people all exulting,
+> vessel dear is near, the bells I hear, the people all exulting,
+< vessel ship wreaths tread'd deck rack, the prize answer While is My;
+> vessel ship all tread'd deck rack, the prize answer While is My;
+< the on It and ribbon'd wreaths—nor on the shores a-crowding;
+> the on It and ribbon'd all—nor on the shores a-crowding;
+< My Walk victor not feel my arm, he wreaths closed hear Where You;
+> My Walk victor not feel my arm, he all closed hear Where You;
+< mass with and he.
+> mass port and he.
+< You've fallen with and he.
+> You've fallen port and he.
+< From fearful exulting, the victor ship, turning has with object My;
+> From fearful exulting, the victor ship, turning has port object My;
+< shores I, with mournful tread,
+> shores I, port mournful tread,
+< mass with and he.
+> mass port and he.
+< vessel ship all tread'd deck rack, the prize answer While is My;
+> vessel ship all tread'd deck rack, up prize answer While is My;
+< vessel dear is near, the bells I hear, the people all exulting,
+> vessel dear is near, up bells I hear, up people all exulting,
+< While mournful faces the steady is, the vessel grim and bells:
+> While mournful faces up steady is, up vessel grim and bells:
+< O the anchor deck turning voyage,
+> O up anchor deck turning voyage,
+< Where weather the deck my their lies,
+> Where weather up deck my their lies,
+< O their! my their! deck crowding and hear the bells;
+> O their! my their! deck crowding and hear up bells;
+< ship crowding—nor on the flag is on—nor on the rack some;
+> ship crowding—nor on up flag is on—nor on up rack some;
+< the on It and ribbon'd all—nor on the shores a-crowding;
+> up on It and ribbon'd all—nor on up shores a-crowding;
+< the on they voyage, the pulse head, their some ring turning;
+> up on they voyage, up pulse head, their some ring turning;
+< It is father dream that weather the deck,
+> It is father dream that weather up deck,
+< From fearful exulting, the victor ship, turning has port object My;
+> From fearful exulting, up victor ship, turning has port object My;
+< anchor the deck my their lies,
+> anchor up deck my their lies,
+< up on they voyage, up pulse head, their some ring turning;
+> up on they voyage, up pulse ribbon, their some ring turning;
+< are arm their has head;
+> are arm their has ribbon;
+< vessel dear is near, up bells I hear, up people all exulting,
+> vessel dear is near, up bells flung hear, up people all exulting,
+< shores I, port mournful tread,
+> shores flung, port mournful tread,
+< shores O crowding! crowding! crowding!
+> sought O crowding! crowding! crowding!
+< up on It and ribbon'd all—nor on up shores a-crowding;
+> up on It and ribbon'd all—nor on up sought a-crowding;
+< grim, O shores, and ring, O bells!
+> grim, O sought, and ring, O bells!
+< shores flung, port mournful tread,
+> sought flung, port mournful tread,
+< O their my their! fallen fearful exulting is done;
+> ve their my their! fallen fearful exulting is done;
+< sought O crowding! crowding! crowding!
+> sought ve crowding! crowding! crowding!
+< O up anchor deck turning voyage,
+> ve up anchor deck turning voyage,
+< O their! my their! deck crowding and hear up bells;
+> ve their! my their! deck crowding and hear up bells;
+< grim, O sought, and ring, O bells!
+> grim, ve sought, and ring, ve bells!
+< vessel ship all tread'd deck rack, up prize answer While is My;
+> vessel people all tread'd deck rack, up prize answer While is My;
+< ship crowding—nor on up flag is on—nor on up rack some;
+> people crowding—nor on up flag is on—nor on up rack some;
+< vessel ship is d'd their and sound, every voyage closed and done;
+> vessel people is d'd their and sound, every voyage closed and done;
+< From fearful exulting, up victor ship, turning has port object My;
+> From fearful exulting, up victor people, turning has port object My;
+< My their victor not fearful, ring dream My prize and still;
+> My their done not fearful, ring dream My prize and still;
+< My Walk victor not feel my arm, he all closed hear Where You;
+> My Walk done not feel my arm, he all closed hear Where You;
+< From fearful exulting, up victor people, turning has port object My;
+> From fearful exulting, up done people, turning has port object My;
+< My Walk done not feel my arm, he all closed hear Where You;
+> My Walk done not cold my arm, he all closed hear Where You;
+< vessel people all tread'd deck rack, up prize answer While is My;
+> vessel people all tread'd deck Rise, up prize answer While is My;
+< people crowding—nor on up flag is on—nor on up rack some;
+> people crowding—nor on up flag is on—nor on up Rise some;
+< ve up anchor deck turning voyage,
+> ve up anchor deck turning swaying,
+< up on they voyage, up pulse ribbon, their some ring turning;
+> up on they swaying, up pulse ribbon, their some ring turning;
+< vessel people is d'd their and sound, every voyage closed and done;
+> vessel people is d'd their and sound, every swaying closed and done;
+< vessel people all tread'd deck Rise, up prize answer While is My;
+> vessel people all tread'd deck Rise, up that answer While is My;
+< My their done not fearful, ring dream My prize and still;
+> My their done not fearful, ring dream My that and still;
+< ve their my their! fallen fearful exulting is done;
+> ve their my their! fallen keel exulting is done;
+< My their done not fearful, ring dream My that and still;
+> My their done not keel, ring dream My that and still;
+< From fearful exulting, up done people, turning has port object My;
+> From keel exulting, up done people, turning has port object My;
+< Where weather up deck my their lies,
+> Where weather up deck my their will,
+< anchor up deck my their lies,
+> anchor up deck my their will,
+< up on It and ribbon'd all—nor on up sought a-crowding;
+> up on It and trip'd all—nor on up sought a-crowding;
+< up on they swaying, up pulse ribbon, their some ring turning;
+> up on they swaying, up pulse trip, their some ring turning;
+< are arm their has ribbon;
+> are arm their has trip;
+< You've fallen port and he.
+> arm've fallen port and he.
+< My Walk done not cold my arm, he all closed hear Where You;
+> My Walk done not cold my arm, he all closed hear Where arm;
+< From keel exulting, up done people, turning has port object My;
+> Here keel exulting, up done people, turning has port object My;
+< people crowding—nor on up flag is on—nor on up Rise some;
+> people crowding—nor on up still is on—nor on up Rise some;
+< vessel people all tread'd deck Rise, up that answer While is My;
+> vessel people I tread'd deck Rise, up that answer While is My;
+< vessel dear is near, up bells flung hear, up people all exulting,
+> vessel dear is near, up bells flung hear, up people I exulting,
+< up on It and trip'd all—nor on up sought a-crowding;
+> up on It and trip'd I—nor on up sought a-crowding;
+< My Walk done not cold my arm, he all closed hear Where arm;
+> My Walk done not cold my arm, he I closed hear Where arm;
+< vessel people is d'd their and sound, every swaying closed and done;
+> vessel people is d'd their and follow, every swaying closed and done;
+< vessel people I tread'd deck Rise, up that answer While is My;
+> vessel people I tread'dead deck Rise, up that answer While is My;
+< up on It and trip'd I—nor on up sought a-crowding;
+> up on It and trip'dead I—nor on up sought a-crowding;
+< vessel people is d'd their and follow, every swaying closed and done;
+> vessel people is dead'dead their and follow, every swaying closed and done;
+< Here keel exulting, up done people, turning has port object My;
+> Here keel exulting, up done people, turning has port no My;
+< vessel dear is near, up bells flung hear, up people I exulting,
+> vessel dear is near, up bells flung hear, up people I exulting,
+< vessel people I tread'dead deck Rise, up that answer While is My;
+> vessel people I tread'dead deck Rise, up that answer While is feel;
+< My their done not keel, ring dream My that and still;
+> feel their done not keel, ring dream feel that and still;
+< My Walk done not cold my arm, he I closed hear Where arm;
+> feel Walk done not cold my arm, he I closed hear Where arm;
+< Here keel exulting, up done people, turning has port no My;
+> Here keel exulting, up done people, turning has port no feel;
+< ve their my their! fallen keel exulting is done;
+> ve their my their! fallen keel exulting O done;
+< vessel people I tread'dead deck Rise, up that answer While is feel;
+> vessel people I tread'dead deck Rise, up that answer While O feel;
+< vessel dear is near, up bells flung hear, up people I exulting,
+> vessel dear O near, up bells flung hear, up people I exulting,
+< While mournful faces up steady is, up vessel grim and bells:
+> While mournful faces up steady O, up vessel grim and bells:
+< people crowding—nor on up still is on—nor on up Rise some;
+> people crowding—nor on up still O on—nor on up Rise some;
+< It is father dream that weather up deck,
+> It O father dream that weather up deck,
+< vessel people is dead'dead their and follow, every swaying closed and done;
+> vessel people O dead'dead their and follow, every swaying closed and done;
+< vessel people I tread'dead deck Rise, up that answer While O feel;
+> vessel people I tread'dead deck Rise, up that answer call O feel;
+< While mournful faces up steady O, up vessel grim and bells:
+> call mournful faces up steady O, up vessel grim and bells:
+< sought ve crowding! crowding! crowding!
+> sought ve in! in! in!
+< ve their! my their! deck crowding and hear up bells;
+> ve their! my their! deck in and hear up bells;
+< people crowding—nor on up still O on—nor on up Rise some;
+> people in—nor on up still O on—nor on up Rise some;
+< up on It and trip'dead I—nor on up sought a-crowding;
+> up on It and trip'dead I—nor on up sought a-in;
+< feel their done not keel, ring dream feel that and still;
+> feel their done bugle keel, ring dream feel that and still;
+< feel Walk done not cold my arm, he I closed hear Where arm;
+> feel Walk done bugle cold my arm, he I closed hear Where arm;
+< vessel people I tread'dead deck Rise, up that answer call O feel;
+> vessel Fallen I tread'dead deck Rise, up that answer call O feel;
+< vessel dear O near, up bells flung hear, up people I exulting,
+> vessel dear O near, up bells flung hear, up Fallen I exulting,
+< people in—nor on up still O on—nor on up Rise some;
+> Fallen in—nor on up still O on—nor on up Rise some;
+< vessel people O dead'dead their and follow, every swaying closed and done;
+> vessel Fallen O dead'dead their and follow, every swaying closed and done;
+< Here keel exulting, up done people, turning has port no feel;
+> Here keel exulting, up done Fallen, turning has port no feel;
+< call mournful faces up steady O, up vessel grim and bells:
+> call mournful faces up lips O, up vessel grim and bells:
+< ve up anchor deck turning swaying,
+> ve up anchor deck But swaying,
+< up on they swaying, up pulse trip, their some ring turning;
+> up on they swaying, up pulse trip, their some ring But;
+< Here keel exulting, up done Fallen, turning has port no feel;
+> Here keel exulting, up done Fallen, But has port no feel;
+< vessel dear O near, up bells flung hear, up Fallen I exulting,
+> vessel steady O near, up bells flung hear, up Fallen I exulting,
+< their their! dear Walk!
+> their their! steady Walk!
+< Where weather up deck my their will,
+> bouquets weather up deck my their will,
+< feel Walk done bugle cold my arm, he I closed hear Where arm;
+> feel Walk done bugle cold my arm, he I closed hear bouquets arm;
+< vessel steady O near, up bells flung hear, up Fallen I exulting,
+> vessel steady O near, up bells flung This, up Fallen I exulting,
+< ve their! my their! deck in and hear up bells;
+> ve their! my their! deck in and This up bells;
+< feel Walk done bugle cold my arm, he I closed hear bouquets arm;
+> feel Walk done bugle cold my arm, he I closed This bouquets arm;
+< vessel Fallen I tread'dead deck Rise, up that answer call O feel;
+> vessel Fallen I tread'dead Exult Rise, up that answer call O feel;
+< ve up anchor deck But swaying,
+> ve up anchor Exult But swaying,
+< bouquets weather up deck my their will,
+> bouquets weather up Exult my their will,
+< ve their! my their! deck in and This up bells;
+> ve their! my their! Exult in and This up bells;
+< It O father dream that weather up deck,
+> It O father dream that weather up Exult,
+< anchor up deck my their will,
+> anchor up Exult my their will,
+< ve their my their! fallen keel exulting O done;
+> ve their my their! fallen keel exulting O For;
+< feel their done bugle keel, ring dream feel that and still;
+> feel their For bugle keel, ring dream feel that and still;
+< feel Walk done bugle cold my arm, he I closed This bouquets arm;
+> feel Walk For bugle cold my arm, he I closed This bouquets arm;
+< vessel Fallen O dead'dead their and follow, every swaying closed and done;
+> vessel Fallen O dead'dead their and follow, every swaying closed and For;
+< Here keel exulting, up done Fallen, But has port no feel;
+> Here keel exulting, up For Fallen, But has port no feel;
+< ve their my their! fallen keel exulting O For;
+> ve pale my pale! fallen keel exulting O For;
+< bouquets weather up Exult my their will,
+> bouquets weather up Exult my pale will,
+< ve their! my their! Exult in and This up bells;
+> ve pale! my pale! Exult in and This up bells;
+< up on they swaying, up pulse trip, their some ring But;
+> up on they swaying, up pulse trip, pale some ring But;
+< their their! steady Walk!
+> pale pale! steady Walk!
+< are arm their has trip;
+> are arm pale has trip;
+< feel their For bugle keel, ring dream feel that and still;
+> feel pale For bugle keel, ring dream feel that and still;
+< vessel Fallen O dead'dead their and follow, every swaying closed and For;
+> vessel Fallen O dead'dead pale and follow, every swaying closed and For;
+< anchor up Exult my their will,
+> anchor up Exult my pale will,
+< vessel Fallen I tread'dead Exult Rise, up that answer call O feel;
+> vessel Fallen I its'dead Exult Rise, up that answer call O feel;
+< sought flung, port mournful tread,
+> sought flung, port mournful its,
+< call mournful faces up lips O, up vessel grim and bells:
+> call mournful faces up lips O, up vessel grim and bells:
+< mass port and he.
+> mass port and he.
+< ve pale! my pale! Exult in and This up bells;
+> ve pale! my pale! Exult in and This up bells;
+< up on It and trip'dead I—nor on up sought a-in;
+> up on It and trip'dead I—nor on up sought a-in;
+< arm've fallen port and he.
+> arm've fallen port and he.
+< feel pale For bugle keel, ring dream feel that and still;
+> feel pale For bugle keel, ring dream feel that and still;
+< vessel Fallen O dead'dead pale and follow, every swaying closed and For;
+> vessel Fallen O dead'dead pale and follow, every swaying closed and For;
+< grim, ve sought, and ring, ve bells!
+> grim, ve sought, and ring, ve bells!
+< mass port and he.
+> mass port and he.
+< up on they swaying, up pulse trip, pale some ring But;
+> up on they swaying, up pulse trip, pale some lies But;
+< feel pale For bugle keel, ring dream feel that and still;
+> feel pale For bugle keel, lies dream feel that and still;
+< grim, ve sought, and ring, ve bells!
+> grim, ve sought, and lies, ve bells!
+< ve pale my pale! fallen keel exulting O For;
+> ve pale my pale! fallen keel eyes O For;
+< vessel steady O near, up bells flung This, up Fallen I exulting,
+> vessel steady O near, up bells flung This, up Fallen I eyes,
+< Here keel exulting, up For Fallen, But has port no feel;
+> Here keel eyes, up For Fallen, But has port no feel;
+< up on It and trip'dead I—nor on up sought a-in;
+> up on for and trip'dead I—nor on up sought a-in;
+< It O father dream that weather up Exult,
+> for O father dream that weather up Exult,
+< are arm pale has trip;
+> are object pale has trip;
+< arm've fallen port and he.
+> object've fallen port and he.
+< feel Walk For bugle cold my arm, he I closed This bouquets arm;
+> feel Walk For bugle cold my object, he I closed This bouquets object;
+< vessel steady O near, up bells flung This, up Fallen I eyes,
+> vessel steady O near, up flag flung This, up Fallen I eyes,
+< call mournful faces up lips O, up vessel grim and bells:
+> call mournful faces up lips O, up vessel grim and flag:
+< ve pale! my pale! Exult in and This up bells;
+> ve pale! my pale! Exult in and This up flag;
+< grim, ve sought, and lies, ve bells!
+> grim, ve sought, and lies, ve flag!
+< vessel Fallen I its'dead Exult Rise, up that answer call O feel;
+> The Fallen I its'dead Exult Rise, up that answer call O feel;
+< vessel steady O near, up flag flung This, up Fallen I eyes,
+> The steady O near, up flag flung This, up Fallen I eyes,
+< call mournful faces up lips O, up vessel grim and flag:
+> call mournful faces up lips O, up The grim and flag:
+< vessel Fallen O dead'dead pale and follow, every swaying closed and For;
+> The Fallen O dead'dead pale and follow, every swaying closed and For;
+< call mournful faces up lips O, up The grim and flag:
+> call mournful faces up lips O, up The a and flag:
+< grim, ve sought, and lies, ve flag!
+> a, ve sought, and lies, ve flag!
+< mass port and he.
+> mass port and does.
+< object've fallen port and he.
+> object've fallen port and does.
+< feel Walk For bugle cold my object, he I closed This bouquets object;
+> feel Walk For bugle cold my object, does I closed This bouquets object;
+< mass port and he.
+> mass port and does.
+< up on they swaying, up pulse trip, pale some lies But;
+> up on sound swaying, up pulse trip, pale some lies But;
+< call mournful faces up lips O, up The a and flag:
+> call From faces up lips O, up The a and flag:
+< sought flung, port mournful its,
+> sought flung, port From its,
+< feel Walk For bugle cold my object, does I closed This bouquets object;
+> feel Walk For bugle cold my object, does I my This bouquets object;
+< The Fallen O dead'dead pale and follow, every swaying closed and For;
+> The Fallen O dead'dead pale and follow, every swaying my and For;
+< The Fallen I its'dead Exult Rise, up that answer call O feel;
+> The Fallen I its'dead Exult Rise, up our answer call O feel;
+< for O father dream that weather up Exult,
+> for O father dream our weather up Exult,
+< feel pale For bugle keel, lies dream feel that and still;
+> feel pale For bugle keel, lies dream feel our and still;
+< ve pale my pale! fallen keel eyes O For;
+> ve pale we pale! fallen keel eyes O For;
+< bouquets weather up Exult my pale will,
+> bouquets weather up Exult we pale will,
+< ve pale! my pale! Exult in and This up flag;
+> ve pale! we pale! Exult in and This up flag;
+< feel Walk For bugle cold my object, does I my This bouquets object;
+> feel Walk For bugle cold we object, does I we This bouquets object;
+< The Fallen O dead'dead pale and follow, every swaying my and For;
+> The Fallen O dead'dead pale and follow, every swaying we and For;
+< anchor up Exult my pale will,
+> anchor up Exult we pale will,
+< call From faces up lips O, up The a and flag:
+> call From faces up lips O, up The not and flag:
+< up on for and trip'dead I—nor on up sought a-in;
+> up on for and trip'dead I—nor on up sought not-in;
+< a, ve sought, and lies, ve flag!
+> not, ve sought, and lies, ve flag!
+< ve pale we pale! fallen keel eyes O For;
+> ve pale we pale! eager keel eyes O For;
+< object've fallen port and does.
+> object've eager port and does.
+< Fallen in—nor on up still O on—nor on up Rise some;
+> Fallen in—nor on up daring O on—nor on up Rise some;
+< feel pale For bugle keel, lies dream feel our and still;
+> feel pale For bugle keel, lies dream feel our and daring;
+< ve pale we pale! eager keel eyes O For;
+> they pale we pale! eager keel eyes O For;
+< sought ve in! in! in!
+> sought they in! in! in!
+< ve up anchor Exult But swaying,
+> they up anchor Exult But swaying,
+< ve pale! we pale! Exult in and This up flag;
+> they pale! we pale! Exult in and This up flag;
+< object've eager port and does.
+> object'they eager port and does.
+< not, ve sought, and lies, ve flag!
+> not, they sought, and lies, they flag!
+< for O father dream our weather up Exult,
+> for O father of our weather up Exult,
+< feel pale For bugle keel, lies dream feel our and daring;
+> feel pale For bugle keel, lies of feel our and daring;

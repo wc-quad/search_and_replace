@@ -1,0 +1,4 @@
+Give a sequence of commands of the form:
+s word             [search]
+r word replacement [replace]
+Type 'q' to quit

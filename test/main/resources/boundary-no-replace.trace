@@ -1,0 +1,16 @@
+Give a sequence of commands of the form:
+s word             [search]
+r word replacement [replace]
+Type 'q' to quit
+< A flea and a fly in a flue
+> A shoe and a fly in a flue
+< "Let us fly!" said the flea.
+> "Let us fly!" said the shoe.
+< A shoe and a fly in a flue
+> A shoe and a die in a flue
+< Said the fly, "let us flee!"
+> Said the die, "let us flee!"
+< "Let us fly!" said the shoe.
+> "Let us die!" said the shoe.
+< Said the die, "let us flee!"
+> Said the die, "let us shoo!"

@@ -1,0 +1,74 @@
+Give a sequence of commands of the form:
+s word             [search]
+r word replacement [replace]
+Type 'q' to quit
+< Were imprisoned, so what could they do?
+> Were imprisoned, so foo could they do?
+< Said the fly, "let us flee!"
+> Said the fly, "let foo flee!"
+< "Let us fly!" said the flea.
+> "Let foo fly!" said the flea.
+< So they flew through a flaw in the flue.
+> So they flew foo a flaw in the flue.
+< Were imprisoned, so foo could they do?
+> Were imprisoned, so foo could foo do?
+< So they flew foo a flaw in the flue.
+> So foo flew foo a flaw in the flue.
+< Said the fly, "let foo flee!"
+> Said foo fly, "let foo flee!"
+< "Let foo fly!" said the flea.
+> "Let foo fly!" said foo flea.
+< So foo flew foo a flaw in the flue.
+> So foo flew foo a flaw in foo flue.
+< Were imprisoned, so foo could foo do?
+> Were imprisoned, foo foo could foo do?
+< "Let foo fly!" said foo flea.
+> "Let foo fly!" foo foo flea.
+< Said foo fly, "let foo flee!"
+> Said foo fly, "foo foo flee!"
+< A flea and a fly in a flue
+> A flea and a fly foo a flue
+< So foo flew foo a flaw in foo flue.
+> So foo flew foo a flaw foo foo flue.
+< Were imprisoned, foo foo could foo do?
+> Were foo, foo foo could foo do?
+< A flea and a fly foo a flue
+> A flea and a foo foo a flue
+< Said foo fly, "foo foo flee!"
+> Said foo foo, "foo foo flee!"
+< "Let foo fly!" foo foo flea.
+> "Let foo foo!" foo foo flea.
+< A flea and a foo foo a flue
+> A flea and a foo foo a foo
+< So foo flew foo a flaw foo foo flue.
+> So foo flew foo a flaw foo foo foo.
+< So foo flew foo a flaw foo foo foo.
+> So foo foo foo a flaw foo foo foo.
+< Said foo foo, "foo foo flee!"
+> Said foo foo, "foo foo foo!"
+< A flea and a foo foo a foo
+> A foo and a foo foo a foo
+< "Let foo foo!" foo foo flea.
+> "Let foo foo!" foo foo foo.
+< So foo foo foo a flaw foo foo foo.
+> So foo foo foo a foo foo foo foo.
+< Were foo, foo foo could foo do?
+> Were foo, foo foo could foo foo?
+< Were foo, foo foo could foo foo?
+> Were foo, foo foo foo foo foo?
+< A foo and a foo foo a foo
+> A foo foo a foo foo a foo
+< A foo foo a foo foo a foo
+> A foo foo foo foo foo foo foo
+< So foo foo foo a foo foo foo foo.
+> So foo foo foo foo foo foo foo foo.
+< Were foo, foo foo foo foo foo?
+> foo foo, foo foo foo foo foo?
+< So foo foo foo foo foo foo foo foo.
+> foo foo foo foo foo foo foo foo foo.
+< Said foo foo, "foo foo foo!"
+> foo foo foo, "foo foo foo!"
+< "Let foo foo!" foo foo foo.
+> "foo foo foo!" foo foo foo.
+< A foo foo foo foo foo foo foo
+> foo foo foo foo foo foo foo foo

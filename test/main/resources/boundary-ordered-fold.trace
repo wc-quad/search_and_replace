@@ -1,0 +1,224 @@
+Give a sequence of commands of the form:
+s word             [search]
+r word replacement [replace]
+Type 'q' to quit
+< A flea and a fly in a flue
+> Let flea and a fly in a flue
+< Let flea and a fly in a flue
+> Said flea and a fly in a flue
+< "Let us fly!" said the flea.
+> "Said us fly!" said the flea.
+< Said flea and a fly in a flue
+> So flea and a fly in a flue
+< Said the fly, "let us flee!"
+> So the fly, "let us flee!"
+< "Said us fly!" said the flea.
+> "So us fly!" said the flea.
+< So flea and a fly in a flue
+> Were flea and a fly in a flue
+< So the fly, "let us flee!"
+> Were the fly, "let us flee!"
+< "So us fly!" said the flea.
+> "Were us fly!" said the flea.
+< So they flew through a flaw in the flue.
+> Were they flew through a flaw in the flue.
+< Were flea and a fly in a flue
+> a flea and a fly in a flue
+< Were imprisoned, so what could they do?
+> a imprisoned, so what could they do?
+< Were the fly, "let us flee!"
+> a the fly, "let us flee!"
+< "Were us fly!" said the flea.
+> "a us fly!" said the flea.
+< Were they flew through a flaw in the flue.
+> a they flew through a flaw in the flue.
+< a flea and a fly in a flue
+> and flea and and fly in and flue
+< a imprisoned, so what could they do?
+> and imprisoned, so what could they do?
+< a the fly, "let us flee!"
+> and the fly, "let us flee!"
+< "a us fly!" said the flea.
+> "and us fly!" said the flea.
+< a they flew through a flaw in the flue.
+> and they flew through and flaw in the flue.
+< and flea and and fly in and flue
+> could flea could could fly in could flue
+< and imprisoned, so what could they do?
+> could imprisoned, so what could they do?
+< and the fly, "let us flee!"
+> could the fly, "let us flee!"
+< "and us fly!" said the flea.
+> "could us fly!" said the flea.
+< and they flew through and flaw in the flue.
+> could they flew through could flaw in the flue.
+< could flea could could fly in could flue
+> do flea do do fly in do flue
+< could imprisoned, so what could they do?
+> do imprisoned, so what do they do?
+< could the fly, "let us flee!"
+> do the fly, "let us flee!"
+< "could us fly!" said the flea.
+> "do us fly!" said the flea.
+< could they flew through could flaw in the flue.
+> do they flew through do flaw in the flue.
+< do flea do do fly in do flue
+> flaw flea flaw flaw fly in flaw flue
+< do imprisoned, so what do they do?
+> flaw imprisoned, so what flaw they flaw?
+< do the fly, "let us flee!"
+> flaw the fly, "let us flee!"
+< "do us fly!" said the flea.
+> "flaw us fly!" said the flea.
+< do they flew through do flaw in the flue.
+> flaw they flew through flaw flaw in the flue.
+< flaw flea flaw flaw fly in flaw flue
+> flea flea flea flea fly in flea flue
+< flaw imprisoned, so what flaw they flaw?
+> flea imprisoned, so what flea they flea?
+< flaw the fly, "let us flee!"
+> flea the fly, "let us flee!"
+< "flaw us fly!" said the flea.
+> "flea us fly!" said the flea.
+< flaw they flew through flaw flaw in the flue.
+> flea they flew through flea flea in the flue.
+< flea flea flea flea fly in flea flue
+> flee flee flee flee fly in flee flue
+< flea imprisoned, so what flea they flea?
+> flee imprisoned, so what flee they flee?
+< flea the fly, "let us flee!"
+> flee the fly, "let us flee!"
+< "flea us fly!" said the flea.
+> "flee us fly!" said the flee.
+< flea they flew through flea flea in the flue.
+> flee they flew through flee flee in the flue.
+< flee flee flee flee fly in flee flue
+> flew flew flew flew fly in flew flue
+< flee imprisoned, so what flee they flee?
+> flew imprisoned, so what flew they flew?
+< flee the fly, "let us flee!"
+> flew the fly, "let us flew!"
+< "flee us fly!" said the flee.
+> "flew us fly!" said the flew.
+< flee they flew through flee flee in the flue.
+> flew they flew through flew flew in the flue.
+< flew flew flew flew fly in flew flue
+> flue flue flue flue fly in flue flue
+< flew imprisoned, so what flew they flew?
+> flue imprisoned, so what flue they flue?
+< flew the fly, "let us flew!"
+> flue the fly, "let us flue!"
+< "flew us fly!" said the flew.
+> "flue us fly!" said the flue.
+< flew they flew through flew flew in the flue.
+> flue they flue through flue flue in the flue.
+< flue flue flue flue fly in flue flue
+> fly fly fly fly fly in fly fly
+< flue imprisoned, so what flue they flue?
+> fly imprisoned, so what fly they fly?
+< flue the fly, "let us flue!"
+> fly the fly, "let us fly!"
+< "flue us fly!" said the flue.
+> "fly us fly!" said the fly.
+< flue they flue through flue flue in the flue.
+> fly they fly through fly fly in the fly.
+< fly fly fly fly fly in fly fly
+> imprisoned imprisoned imprisoned imprisoned imprisoned in imprisoned imprisoned
+< fly imprisoned, so what fly they fly?
+> imprisoned imprisoned, so what imprisoned they imprisoned?
+< fly the fly, "let us fly!"
+> imprisoned the imprisoned, "let us imprisoned!"
+< "fly us fly!" said the fly.
+> "imprisoned us imprisoned!" said the imprisoned.
+< fly they fly through fly fly in the fly.
+> imprisoned they imprisoned through imprisoned imprisoned in the imprisoned.
+< imprisoned imprisoned imprisoned imprisoned imprisoned in imprisoned imprisoned
+> in in in in in in in in
+< imprisoned imprisoned, so what imprisoned they imprisoned?
+> in in, so what in they in?
+< imprisoned the imprisoned, "let us imprisoned!"
+> in the in, "let us in!"
+< "imprisoned us imprisoned!" said the imprisoned.
+> "in us in!" said the in.
+< imprisoned they imprisoned through imprisoned imprisoned in the imprisoned.
+> in they in through in in in the in.
+< in in in in in in in in
+> let let let let let let let let
+< in in, so what in they in?
+> let let, so what let they let?
+< in the in, "let us in!"
+> let the let, "let us let!"
+< "in us in!" said the in.
+> "let us let!" said the let.
+< in they in through in in in the in.
+> let they let through let let let the let.
+< let let let let let let let let
+> said said said said said said said said
+< let let, so what let they let?
+> said said, so what said they said?
+< let the let, "let us let!"
+> said the said, "said us said!"
+< "let us let!" said the let.
+> "said us said!" said the said.
+< let they let through let let let the let.
+> said they said through said said said the said.
+< said said said said said said said said
+> so so so so so so so so
+< said said, so what said they said?
+> so so, so what so they so?
+< said the said, "said us said!"
+> so the so, "so us so!"
+< "said us said!" said the said.
+> "so us so!" so the so.
+< said they said through said said said the said.
+> so they so through so so so the so.
+< so so so so so so so so
+> the the the the the the the the
+< so so, so what so they so?
+> the the, the what the they the?
+< so the so, "so us so!"
+> the the the, "the us the!"
+< "so us so!" so the so.
+> "the us the!" the the the.
+< so they so through so so so the so.
+> the they the through the the the the the.
+< the the the the the the the the
+> they they they they they they they they
+< the the, the what the they the?
+> they they, they what they they they?
+< the the the, "the us the!"
+> they they they, "they us they!"
+< "the us the!" the the the.
+> "they us they!" they they they.
+< the they the through the the the the the.
+> they they they through they they they they they.
+< they they they they they they they they
+> through through through through through through through through
+< they they, they what they they they?
+> through through, through what through through through?
+< they they they, "they us they!"
+> through through through, "through us through!"
+< "they us they!" they they they.
+> "through us through!" through through through.
+< they they they through they they they they they.
+> through through through through through through through through through.
+< through through through through through through through through
+> us us us us us us us us
+< through through, through what through through through?
+> us us, us what us us us?
+< through through through, "through us through!"
+> us us us, "us us us!"
+< "through us through!" through through through.
+> "us us us!" us us us.
+< through through through through through through through through through.
+> us us us us us us us us us.
+< us us us us us us us us
+> what what what what what what what what
+< us us, us what us us us?
+> what what, what what what what what?
+< us us us, "us us us!"
+> what what what, "what what what!"
+< "us us us!" us us us.
+> "what what what!" what what what.
+< us us us us us us us us us.
+> what what what what what what what what what.
